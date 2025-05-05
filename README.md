@@ -101,5 +101,5 @@ Deploy on cloud or messaging platforms like Telegram or WhatsApp
 This chatbot project demonstrates the fundamentals of conversational agents and how NLP can be applied to real-world tasks. It serves as a foundation for building more intelligent virtual assistants. Whether for learning or prototyping purposes, this chatbot offers hands-on experience with the key building blocks of dialogue systems.
 
 output:
-
+![Image](https://github.com/user-attachments/assets/d8b90be5-9311-4389-91b4-d9cc544bdad2)
 
